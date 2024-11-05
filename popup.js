@@ -32,14 +32,24 @@ function showPopup()
     overlay.style.display = 'block';
 }
 
-if (!getCookie('popupAgreed')) 
+function hidePopup()
 {
-    showPopup();
+    popup.style.display = 'none';
+    overlay.style.display = 'none';
 }
 
 agreeButton.addEventListener('click', function() 
 {
-    popup.style.display = 'none';
-    overlay.style.display = 'none';
+    
     setCookie('popupAgreed', 'true', 30);
 });
+
+if (!getCookie('popupAgreed')) 
+{
+    showPopup();
+}
+else 
+{
+    hidePopup();
+}
+
