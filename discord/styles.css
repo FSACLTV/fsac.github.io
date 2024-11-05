@@ -1,12 +1,13 @@
 body {
   background: linear-gradient(to top, #232323, #141414);
   align-items: center;
-  font-family: 'Lexend';
+  Font-family: 'Lexend';font-size: 22px;
   justify-content: center;
   display: flex;
   color: white;
   height: 100vh;
   margin: 0;
+  
 }
 
 h1 {
