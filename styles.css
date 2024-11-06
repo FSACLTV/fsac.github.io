@@ -133,11 +133,11 @@ footer {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-.footer_text {
+.foter-text {
     text-decoration: none;
     cursor: default;
 }
 
-.footer_text:hover {
+.foter-text:hover {
     cursor: default;
 }
