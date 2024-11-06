@@ -57,6 +57,7 @@ footer {
 .button-container {
     margin: 20px;
     margin-top: 20px;
+    text-decoration: none;
 }
 
 .button {
@@ -75,9 +76,10 @@ footer {
     position: relative;
     top: 2px;
     right: 3px;
+    text-decoration: nonel
 }
 .button:hover {
     background-image: linear-gradient(to right, #5b9ed4, #3069ab);
-    ;
+    text-decoration: none
 
 }
