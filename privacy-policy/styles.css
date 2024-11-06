@@ -7,3 +7,14 @@ body {
   color: white;
   margin: 0;
 }
+
+.our-logo {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}
+.our-logo img {
+  width: 50px;
+  height: auto;
+  cursor: pointer;
+}
