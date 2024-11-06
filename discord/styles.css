@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(to top, #232323, #141414);
+  align-items: center;
+  Font-family: 'Lexend';font-size: 22px;
+  justify-content: center;
+  display: flex;
+  color: white;
+  height: 100vh;
+  margin: 0;
+  
+}
+
+h1 {
+  font-size: 50px;
+  color: #70ff96;
+  font-weight: 400;
+  text-align: center;
+  line-height: 45px;
+}
+
+p {
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  font-weight: 400;
+  line-height: 10px;
+}
