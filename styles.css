@@ -132,3 +132,12 @@ footer {
     height: 100%;
     background-color: rgba(0, 0, 0, 0.5);
 }
+
+.footer_text {
+    text-decoration: none;
+    cursor: default;
+}
+
+.footer_text:hover {
+    cursor: default;
+}
