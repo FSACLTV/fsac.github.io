@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lexend';
+    background: linear-gradient(to top, #232323, #141414);
+    color: #BF77F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.welcome-message {
+    line-height: 0.85;
+    text-align: center;
+}
+.subtitle {
+    color: white;
+}
+h2.welcome-title {
+    font-size: 3em;
+    font-weight: 400;
+    margin-bottom: 8px;
+    line-height: 25px;
+    padding-top: 1em
+}
+
+h1.welcome-title {
+    font-size: 5em;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.game-logos {
+    width: 100px;
+    margin: 0 15px;
+    border-radius: 10px;
+}
+.invisible {
+    display: none;
+}
+
+footer {
+    position: fixed; bottom: 0;
+    color: gray;
+    margin-bottom: 30px;
+}
+
+.footer-text {
+    font-size: 0.9em;
+    text-align: center;
+}
+.button-container {
+    margin: 20px;
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 5px 25px;
+    background-image: linear-gradient(to right, #7dadd3, #65a1e7);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 0 0px;
+    font-size: 1em;
+    transition: background-image 0.3s;
+    justify-content: center;
+}
+.icon {
+    position: relative;
+    top: 2px;
+    right: 3px;
+}
+.button:hover {
+    background-image: linear-gradient(to right, #5b9ed4, #3069ab);
+    ;
+
+}
