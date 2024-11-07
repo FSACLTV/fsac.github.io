@@ -35,3 +35,7 @@ p {
 .foter-text:hover {
     cursor: text;
 }
+
+.aside a {
+  color: #70ff96;
+}
