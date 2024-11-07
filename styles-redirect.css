@@ -26,10 +26,12 @@ p {
 }
 
 .foter-text {
+    font-size: 50px;
+    color: #70ff96;
     text-decoration: none;
-    cursor: default;
+    cursor: text;
 }
 
 .foter-text:hover {
-    cursor: default;
+    cursor: text;
 }
