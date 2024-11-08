@@ -83,3 +83,27 @@ footer {
     text-decoration: none
 
 }
+.agree-button {
+    background-image: linear-gradient(to right, #7dadd3, #65a1e7);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-image 0.3s;
+}
+
+.agree-button:hover {
+    background-image: linear-gradient(to right, #5b9ed4, #3069ab);
+}
+
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
