@@ -76,8 +76,33 @@ footer {
     position: relative;
     top: 2px;
     right: 3px;
-    text-decoration: nonel
+    text-decoration: none
 }
+.popup {
+    display: none;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #333;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 300px;
+    text-align: center;
+}
+
+.popup h2 {
+    color: red;
+    margin: 0 0 10px;
+}
+
+.popup p {
+    margin: 0 0 20px;
+    line-height: 1.5;
+}
+
 .button:hover {
     background-image: linear-gradient(to right, #5b9ed4, #3069ab);
     text-decoration: none
