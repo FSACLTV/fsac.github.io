@@ -91,6 +91,7 @@ footer {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     width: 300px;
     text-align: center;
+   z-index: 9999;
 }
 
 .popup h2 {
@@ -116,7 +117,6 @@ footer {
     padding: 10px 20px;
     cursor: pointer;
     transition: background-image 0.3s;
-    z-index: 9999;
 }
 
 .agree-button:hover {
