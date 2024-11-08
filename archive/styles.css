@@ -116,6 +116,7 @@ footer {
     padding: 10px 20px;
     cursor: pointer;
     transition: background-image 0.3s;
+    z-index: 9999;
 }
 
 .agree-button:hover {
@@ -130,5 +131,5 @@ footer {
     width: 100vw;
     height: 100vh;
     background-color: rgba(0, 0, 0, 0.5);
-    z-index: 9999;
+    z-index: 9998;
 }
