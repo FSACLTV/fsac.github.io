@@ -5,10 +5,11 @@ This repository was made to host our GitHub Pages website, developed by Chordave
 
 If you are looking for the FSDMC (Freefall Softworks Datamining Collective), it has rebranded and merged with FSARO. The previous URLs for FSDMC will redirect here soon and emails sent to contact@fsdmc.us.to will not be responded to. If you wish to contact us, you may do so via Discord or X.
 
-Visit our Social Media for more info:
-𝕏: x.com/FSARORG
-Discord: fsaro.github.io/discord
+Visit our Social Media for more info: 𝕏: https://x.com/FSARORG
 
-Our beautified changelogs are in the works! Please hand tight as we make them!
+Join our Discord to communicate with our members and administrative staff: https://fsaro.github.io/discord
+
+
+Our beautified changelogs are in the works! Please hang tight as we make them!
 
 `Made with ❤️ by Chordavei and Jake. Copyright 2025. All rights reserved.`
