@@ -5,3 +5,5 @@ This GitHub repository servers as a host to our official GitHub Pages website, m
 We are accepting assistance related to the archive website. Please do not hesitate to let us know if you would like to contribute!
 
 `Made with ❤️ by Chordavei and Jake`
+
+AS OF 1/9/25, THE ABOVE INFO IS VOID AND INVALID. PLEASE ALLOW US TO REBRAND THIS WEBSITE. THANK YOU!
