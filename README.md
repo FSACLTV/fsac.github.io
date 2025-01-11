@@ -1,15 +1,26 @@
-# 📁 Welcome to the FSARO Website Repository!
-The FSARO (otherwise known as the Freefall Softworks Archival Organization) is a collective organization of people who aim to archive all prevalent items surrounding the developemnt group Freefall Softworks by Cishahto. Our goal is to create a comprehensive archive service, similar to that of the Wayback Machine™️, that contains all major news, videos, asset IDs, in-game music, events, and more.
+![image](https://github.com/FSARO/fsaro.github.io/blob/main/assets/images/websiterepo-banner-fsaro.png)
+## About this Repository:
+This repository houses the homepage and all subpages of the FSARO website.
 
-This repository was made to host our GitHub Pages website, developed by Chordavei (@chordavei) and Jake (@somerandomguyonhere). As of 1/9/2025, the website is being rebranded and rebuilt to a newer version. Please note that our website and material is licensed under the GNU Affero General Public License v3.0, meaning you must follow the directions of the license to fork this repository and/or use our material.
+Please note that all material provided is covered under the respective license listed in the repository. Icons and images are covered under Copyright unless explicitly stated otherwise. You must follow the directions of the Copyright holder for all material that is outsourced. We do not claim any ownership over material unless explicitly stated within this README file or on the website.
 
-If you are looking for the FSDMC (Freefall Softworks Datamining Collective), it has rebranded and merged with FSARO. The previous URLs for FSDMC will redirect here soon and emails sent to contact@fsdmc.us.to will not be responded to. If you wish to contact us, you may do so via Discord or X.
+## Missions and Goals:
+While many proclaim that whatever is posted to the internet is forever, that is only applicable in some cases. Many websites or people may delete content that people want to find, or said content may become difficult to track down. To combat this and keep an extensive record, many websites, such as the Wayback Machine®️, are made to document and allow anyone to access old content. However, this process is mostly manual, as the data crawlers that automate data collection cannot access certain content, meaning some data is not found. This is what the FSARO aims to fix. Focused on the game development studio Freefall Softworks by Cishshato, we aim to archive anything and everything. We accomplish this with a team of archivers that search and index Freefall Softworks related content, who then enter it into a comprehensive database that anyone can use. This means that more data can be indexed, including hard-to-find data.
 
-Visit our Social Media for more info: 𝕏: https://x.com/FSARORG
+## Copyright and Intellectual Property
+Our mission may bring concerns to some individuals about Copyright. The FSARO fully abides by Copyright law, and does not sell or lend any material we archive. Owners of copyrighted material may also contact us to remove or set restrictions on their property. People who may have their information leaked can also remove certain materials from the archive.
 
-Join our Discord to communicate with our members and administrative staff: https://fsaro.github.io/discord
+## Further Development
+At the moment, we currently only document items related to Freefall Softworks. In the future however, we envision our archive to be en extensive list of materials for all heist-related games, such as PAYDAY®️ and Hitman®️.
 
+## Volunteer Support
+We are currently accepting volunteers. You may apply at our [Discord](https://fsaro.github.io/discord) or by emailing us through our contact email.
 
-Our beautified changelogs are in the works! Please hang tight as we make them!
+## Credits and Attributions
+`Hitman®️ is a registered trademark of IOI Interactive. `<br/>
+`PAYDAY®️ is a registered trademark of Starbreeze Entertainment.`<br/>
+`Wayback Machine®️ is a registered trademark of Internet Archive.`<br/>
+`Banner image background by Rodion Kutsaiev via Pexels (pexels.com)`<br/>
 
-`Made with ❤️ by Chordavei and Jake. Copyright 2025. All rights reserved.`
+`Made with ❤️ by Chordavei and Jake. Copyright ©️ 2025. All rights reserved.`
+
