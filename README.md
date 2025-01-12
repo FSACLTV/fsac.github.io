@@ -17,7 +17,7 @@ At the moment, we currently only document items related to Freefall Softworks. I
 We are currently accepting volunteers. You may apply at our [Discord](https://fsaro.github.io/discord) or by emailing us through our contact email.
 
 ## Credits and Attributions
-`Hitman®️ is a registered trademark of IOI Interactive. `<br/>
+`Hitman®️ is a registered trademark of IOI Interactive.`<br/>
 `PAYDAY®️ is a registered trademark of Starbreeze Entertainment.`<br/>
 `Wayback Machine®️ is a registered trademark of Internet Archive.`<br/>
 `Banner image background by Rodion Kutsaiev via Pexels (pexels.com)`<br/>
