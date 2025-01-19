@@ -11,7 +11,7 @@ While many proclaim that whatever is posted to the internet is forever, that is 
 Our mission may bring concerns to some individuals about Copyright. The FSARO fully abides by Copyright law, and does not sell or lend any material we archive. Owners of copyrighted material may also contact us to remove or set restrictions on their property. People who may have their information leaked can also remove certain materials from the archive.
 
 ## Further Development
-At the moment, we currently only document items related to Freefall Softworks. In the future however, we envision our archive to be en extensive list of materials for all Robhlox-based heist-related games.
+At the moment, we currently only document items related to Freefall Softworks. In the future however, we envision our archive to be en extensive list of materials for all Roblox-based heist-related games.
 
 ## Volunteer Support
 We are currently accepting volunteers. You may apply at our [Discord](https://fsaro.github.io/discord) or by emailing us through our contact email.
